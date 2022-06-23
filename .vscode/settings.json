@@ -1,0 +1,6 @@
+{
+  "rust-analyzer.rustfmt.overrideCommand": [
+    "/Users/stignervik/.rustup/toolchains/stable-aarch64-apple-darwin/bin/rustfmt"
+  ],
+  "editor.formatOnSave": true,
+}
